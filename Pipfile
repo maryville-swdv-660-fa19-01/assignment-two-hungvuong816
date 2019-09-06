@@ -12,6 +12,7 @@ django-cors-headers = "*"
 [dev-packages]
 pytest = "*"
 pytest-django = "*"
+v = {editable = true,version = "*"}
 
 [requires]
 python_version = "3.6"
